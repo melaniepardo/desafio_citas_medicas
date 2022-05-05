@@ -1,7 +1,7 @@
 # Desafío citas médicas
 ## Descripción proyecto
 Proyecto que le permite a los usuarios de una Clínica resolver un problema con su software de gestión de citas,  mediante un servidor que sea capaz de registrar a los
-nuevos usuarios almacenando su nombre, apellido, hora de atención, con su correspondiente código identificador.
+nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspondiente código identificador.
 
 ## Contenidos aplicados
 - Conociendo NPM
