@@ -16,11 +16,11 @@ nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspo
 - Después de descargar el proyecto, desde VSC abra una nueva terminal y ejecute : `npm install` y luego
 `node app.js` o puede ejecutar `npm install -g nodemon` y por ende luego `nodemon app.js`.
 -Luego instalar los siquientes paquetes:  
-1. `node i axios`
-2. `node i uuid`
-3. `node i moment`
-4. `node i lodash`
-5. `node i chalk`
+1. `npm i axios`
+2. `npm i uuid`
+3. `npm i moment`
+4. `npm i lodash`
+5. `npm i chalk`
 
 
 ## Cómo se usa ⚙️
