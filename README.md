@@ -20,7 +20,7 @@ nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspo
 2. `npm i uuid`
 3. `npm i moment`
 4. `npm i lodash`
-5. `npm i chalk`
+5. `npm i chalk@4.1.2`
 
 
 ## Cómo se usa ⚙️
