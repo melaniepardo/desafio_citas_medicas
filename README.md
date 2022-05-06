@@ -16,16 +16,15 @@ nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspo
 - Después de descargar el proyecto, desde VSC abra una nueva terminal y ejecute : `npm install` y luego
 `node app.js` o puede ejecutar `npm install -g nodemon` y por ende luego `nodemon app.js`.
 -Luego instalar los siquientes paquetes:  
-1. `node i axios`
-2. `node i uuid`
-3. `node i axios`
-4. `node i moment`
-5. `node i lodash`
-6. `node i chalk`
+1. `npm i axios`
+2. `npm i uuid`
+3. `npm i moment`
+4. `npm i lodash`
+5. `npm i chalk@4.1.2`
 
 
 ## Cómo se usa ⚙️
-  Ingresa a la siguiente [ruta](http://localhost:8080/users) disponibilizada para ver la información de los usuarios.
+  Luego de la instalación, ingresa a la siguiente [ruta](http://localhost:8080/users) disponibilizada para ver la información de los usuarios.
 
 ### Quiénes contribuyeron ✒️
 
