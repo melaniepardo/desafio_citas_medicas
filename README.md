@@ -18,10 +18,9 @@ nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspo
 -Luego instalar los siquientes paquetes:  
 1. `node i axios`
 2. `node i uuid`
-3. `node i axios`
-4. `node i moment`
-5. `node i lodash`
-6. `node i chalk`
+3. `node i moment`
+4. `node i lodash`
+5. `node i chalk`
 
 
 ## Cómo se usa ⚙️
