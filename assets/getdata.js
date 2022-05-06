@@ -3,7 +3,7 @@
 
 const axios = require("axios");
 
-const url = 'https://randomuser.me/api/?results=7'
+const url = 'https://randomuser.me/api'
 
 const getData = async () => {
     const {data} = await axios.get(url)
