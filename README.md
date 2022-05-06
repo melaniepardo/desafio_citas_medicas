@@ -12,9 +12,16 @@ nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspo
 
 
 ## Instrucciones 📌
-- Para ingresar a ver los archivos del proyecto, dirijase a la carpeta assets, y luego a index.js.
+- Para ingresar a ver los archivos del proyecto, dirijase a la carpeta assets, y luego a los archivos js.
 - Después de descargar el proyecto, desde VSC abra una nueva terminal y ejecute : `npm install` y luego
-`node index.js` o puede ejecutar `npm install -g nodemon` y por ende `nodemon index.js`.
+`node app.js` o puede ejecutar `npm install -g nodemon` y por ende luego `nodemon app.js`.
+-Luego instalar los siquientes paquetes:  
+1. `node i axios`
+2. `node i uuid`
+3. `node i axios`
+4. `node i moment`
+5. `node i lodash`
+6. `node i chalk`
 
 
 ## Cómo se usa ⚙️
