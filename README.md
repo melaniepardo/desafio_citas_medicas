@@ -24,7 +24,7 @@ nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspo
 
 
 ## Cómo se usa ⚙️
-  Ingresa a la siguiente [ruta](http://localhost:8080/users) disponibilizada para ver la información de los usuarios.
+  Luego de la instalación, ingresa a la siguiente [ruta](http://localhost:8080/users) disponibilizada para ver la información de los usuarios.
 
 ### Quiénes contribuyeron ✒️
 
